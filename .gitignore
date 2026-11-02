@@ -1,0 +1,23 @@
+# Configuração local e credenciais
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Logs e ficheiros temporários
+*.log
+*.tmp
+*.swp
+*~
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Preferências locais de editores
+.vscode/
+.idea/
